@@ -1,0 +1,5 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="ANDROID_SDK_HOME" value="D:/AndroidAVD" />
+  </component>
+</application>
